@@ -38,4 +38,4 @@ VALUES ('Peças LOOP Ltda', '10', 'Gabinete Gamer ', '350.45', '580.78', '124898
 
 
 INSERT INTO `estoque` (`fornecedor`, `codigo`, `descricao`, `custo`, `precovenda`, `codbarras`, `tipo`, `qtdestoque`) 
-VALUES ('Brasil Peças', '7', 'Monitor', '550.30', '730.80', '71389868352734070', 'monitores', '6');
+VALUES ('Brasil Peças', '7', 'Monitor', '550.30', '730.80', '71389868352734070', 'monitores', '6'); 
